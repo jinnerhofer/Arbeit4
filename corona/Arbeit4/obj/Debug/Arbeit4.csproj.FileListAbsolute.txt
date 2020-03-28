@@ -1,7 +1,0 @@
-C:\Users\joinn\Documents\hak\2klasse\APR\corona\Arbeit4\bin\Debug\Arbeit4.exe.config
-C:\Users\joinn\Documents\hak\2klasse\APR\corona\Arbeit4\bin\Debug\Arbeit4.exe
-C:\Users\joinn\Documents\hak\2klasse\APR\corona\Arbeit4\bin\Debug\Arbeit4.pdb
-C:\Users\joinn\Documents\hak\2klasse\APR\corona\Arbeit4\obj\Debug\Arbeit4.csprojAssemblyReference.cache
-C:\Users\joinn\Documents\hak\2klasse\APR\corona\Arbeit4\obj\Debug\Arbeit4.csproj.CoreCompileInputs.cache
-C:\Users\joinn\Documents\hak\2klasse\APR\corona\Arbeit4\obj\Debug\Arbeit4.exe
-C:\Users\joinn\Documents\hak\2klasse\APR\corona\Arbeit4\obj\Debug\Arbeit4.pdb
